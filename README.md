@@ -1,6 +1,6 @@
 <img src="README.assets/helloim-pyq .svg">
 
-# Hi, it's PYQ 👋🏻
+# Hi, it's PYQ 😀
 
 - 👨🏻‍🎓 I'm a student of [Hainan University (Hainanu)](https://ha.hainanu.edu.cn/home2020/).  
 
