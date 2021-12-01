@@ -1,4 +1,4 @@
-[![github-profile](https://raw.githubusercontent.com/Eilopyq/Gallery/main/img/202112010940885.svg)](https://www.calligrapher.ai/)
+![helloim-pyq](https://cdn.jsdelivr.net/gh/Eilopyq/Gallery/img/202112011202208.svg)
 
 # Hi, it's PYQ 😀
 
