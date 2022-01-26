@@ -4,7 +4,7 @@
 
 - 👨🏻‍🎓 I'm a student of [Hainan University (Hainanu)](https://ha.hainanu.edu.cn/home2020/).  
 
-- 🎓 I'm going to study in [Institude of Information Engineering (IIE), University of Chinese Academy of Science (UCAS)](http://www.iie.ac.cn/) next year.  
+- 🎓 I'm going to study in [Institude of Information Engineering (IIE), University of Chinese Academy of Science (UCAS)](http://www.iie.ac.cn/) in 2022.  
 
 - ⚽ I'm a die-hard fan of CR7.   
 
