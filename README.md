@@ -10,7 +10,7 @@
 
 - 💌 How to reach me: [eilo.pengyq@gmail.com](mailto:eilo.pengyq@gmail.com)
 
-- 🔍 Know more about me at [PYQ's Blog](https://www.pengyq.top).
+- 🔍 Know more about me at [PYQ's Blog](https://peng-yq.github.io) or [PYQ's Daily Blog](https://pengyq.top).
 
   
 
