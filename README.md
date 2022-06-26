@@ -1,6 +1,14 @@
 ![helloim-pyq](https://cdn.jsdelivr.net/gh/Eilopyq/Gallery/img/202112011202208.svg)
 
-# Hi, it's PYQ 😀
+<h1 align="center"> Hola, it's PYQ  </h3>
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/peng-yq">github</a> ∙ 
+    <a href="https://peng-yq.github.io">homepage</a> ∙
+    <a href="https://github.com/peng-yq/peng-yq.github.io/raw/main/pdf/CV_CN.pdf">cv</a> ∙ 
+  </samp>
+</p>
 
 - 👨🏻‍🎓 I'm a student of [Hainan University (Hainanu)](https://ha.hainanu.edu.cn/home2020/).  
 
