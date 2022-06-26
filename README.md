@@ -9,7 +9,7 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 
-![](https://profile-counter.glitch.me/peng-yq/count.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/peng-yq/count.svg"></img></p>
 
 #### **Talking about Personal Stuffs:**
 
