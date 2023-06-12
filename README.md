@@ -19,6 +19,8 @@
 - 💌 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲: **[𝗲𝗶𝗹𝗼.𝗽𝗲𝗻𝗴𝘆𝗾@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺](mailto:eilo.pengyq@gmail.com)**
 - 🔎 𝗞𝗻𝗼𝘄 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 𝗮𝘁 **[𝗣𝗬𝗤'𝘀 𝗕𝗹𝗼𝗴](https://peng-yq.github.io) | [𝗣𝗬𝗤'𝘀 𝗗𝗮𝗶𝗹𝘆 𝗕𝗹𝗼𝗴](https://pengyq.top)** 🔍
 
+![snake gif](https://github.com/peng-yq/peng-yq/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
 
