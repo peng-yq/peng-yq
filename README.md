@@ -9,14 +9,14 @@
   </samp>
 </p>
 
-I'm `PYQ`, currently a second-year master's student in **[Institute of Information Engineering (IIE), Chinese Academy of Science (CAS)](http://www.iie.ac.cn/) / [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**   . I'm expected to graduate in Summer 2025.
+I'm `PYQ`, currently a second-year master's student in **[Institute of Information Engineering (IIE), Chinese Academy of Science (CAS)](http://www.iie.ac.cn/) / [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**. I'm expected to graduate in Summer 2025.
 
 - 📚Computer Science and Cyber Security Student
 - 💬 Mandarin Chinese, English, and Sichuanese, the dialect of Chinese in Sichuan
-- 🌱Currently learning Cloud Native Security, OS
+- 🌱Currently learning Cloud Native Security, OS, GO
 - 🧠Interested in system in computer science
 - 🐧Linux user (ubuntu and debian)
-- 💜Language like C, C++, JavaScript, Shell, Python and HTML
+- 💜Language like C, C++, GO, JavaScript, Shell, Python and HTML
 - 📫Email: eilo dot pengyq at foxmail/gmail dot com
 - 🔎Want to know more? Go [PYQ's Blog](https://peng-yq.github.io) | [PYQ's Daily Blog](https://pengyq.top)
 
