@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-I'm `PYQ`, currently a second-year master's student in **[Institute of Information Engineering (IIE), Chinese Academy of Science (CAS)](http://www.iie.ac.cn/) / [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**. I'm expected to graduate in Summer 2025.
+I'm `PYQ`, currently a second-year master student in **[Institute of Information Engineering (IIE), Chinese Academy of Science (CAS)](http://www.iie.ac.cn/) / [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**. I'm expected to graduate in Summer 2025.
 
 - 📚Computer Science and Cyber Security Student
 - 💬 Mandarin Chinese, English, and Sichuanese, the dialect of Chinese in Sichuan
