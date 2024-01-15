@@ -13,7 +13,7 @@ I'm `PYQ`, currently a second-year master student in **[Institute of Information
 
 - 📚Computer Science and Cyber Security Student
 - 💬 Mandarin Chinese, English, and Sichuanese, the dialect of Chinese in Sichuan
-- 🌱Currently learning Cloud Native Security, OS, GO
+- 🌱Currently learning C++, Cloud Native Security, OS, GO
 - 🧠Interested in system in computer science
 - 🐧Linux user (ubuntu and debian)
 - 💜Language like C, C++, GO, JavaScript, Shell, Python and HTML
