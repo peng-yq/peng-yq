@@ -16,7 +16,7 @@ I'm `PYQ`, currently a second-year master student in **[Institute of Information
 - 🌱Currently learning C++, Cloud Native Security, OS, GO
 - 🧠Interested in system in computer science
 - 🐧Linux user (ubuntu and debian)
-- 💜Language like C, C++, GO, JavaScript, Shell, Python and HTML
+- 💜Language like C, C++, GO, Shell and Python  
 - 📫Email: eilo dot pengyq at foxmail/gmail dot com
 - 🔎Want to know more? Go [PYQ's Blog](https://peng-yq.github.io) | [PYQ's Daily Blog](https://pengyq.top)
 
