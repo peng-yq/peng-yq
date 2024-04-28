@@ -17,7 +17,7 @@ I'm `PYQ`, currently a second-year master student in **[Institute of Information
 - 🐧Linux user (ubuntu and debian)
 - 💜Language like C, C++, GO, Shell and Python  
 - 📫Email: eilo dot pengyq at foxmail/gmail dot com
-- 🔎Want to know more? Go [PYQ's Blog](https://peng-yq.github.io) | [PYQ's Daily Blog](https://pengyq.top)
+- 🔎Want to know more? Go [PYQ's Blog](https://peng-yq.github.io)
 
 <h4 align="center">👀 Visitor's count </h4>
 
