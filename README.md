@@ -4,8 +4,7 @@
   <samp>
   	<a href="https://peng-yq.github.io/about/"><strong>Me</strong></a> ∙ 
     <a href="https://peng-yq.github.io/archive/"><strong>Blog</strong></a> ∙
-  	<a href="https://github.com/peng-yq"><strong>Github</strong></a> ∙ 
-    <a href="https://github.com/peng-yq/peng-yq.github.io/raw/main/pdf/CV_CN.pdf"><strong>CV</strong></a> 
+  	<a href="https://github.com/peng-yq"><strong>Github</strong></a> 
   </samp>
 </p>
 
