@@ -8,16 +8,16 @@
   </samp>
 </p>
 
-I'm `PYQ`, currently a third-year master student in **[Institute of Information Engineering (IIE), Chinese Academy of Science (CAS)](http://www.iie.ac.cn/) / [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**. I'm expected to graduate in Summer 2025.
+I'm `PYQ`, currently a Research and Development Engineer in ByteDance.
 
-- 📚Computer Science and Cyber Security Student
+- 📚 Master of Computer Science and Cyber Security
 - 💬 Mandarin Chinese, English, and Sichuanese, the dialect of Chinese in Sichuan
-- 🌱Currently learning Java, Cloud Native Security, GO
-- 🧠Interested in system in computer science
-- 🐧Linux user (ubuntu and debian)
-- 💜Language like C, C++, GO, Java, Shell and Python  
-- 📫Email: eilo dot pengyq at foxmail/gmail dot com
-- 🔎Want to know more? Go [PYQ's Blog](https://pengyq.dev)
+- 🌱 Currently learning Java
+- 🧠 Interested in system in computer science
+- 🐧 Linux user (ubuntu and debian)
+- 💜 Language like C, C++, GO, Java, Shell and Python  
+- 📫 Email: eilo dot pengyq at foxmail/gmail dot com
+- 🔎 Want to know more? Go [PYQ's Blog](https://pengyq.dev)
 
 <h4 align="center">👀 Visitor's count </h4>
 
